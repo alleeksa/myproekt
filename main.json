@@ -1,0 +1,118 @@
+ [
+    
+
+{
+    "id" : "1",
+    "name" : "Календарь PUSSLE CALENDAR",
+    "prise" : "160.00$",
+    "materiale" : "Пластік",
+    "country" : "індія",
+    "size" : "50 ml",
+    "color" : "Білий",
+    "url" : "img/kalendar-pussle-calenda.jpg"
+},
+
+{ 
+  "id" : "2",
+  "name" : "Шар-провісник Траса 60",
+  "prise" : "68.00$",
+  "materiale" : "Пластік",
+  "country" : "США",
+  "size" : "100 ml",
+  "color" : "Чорний",
+  "url" : "img/shar-predskazatel-trassa-60.jpg"
+}, 
+{ 
+  "id" : "3",
+    "name" : "Набір Финансове благополуччя",
+    "prise" : "50.00$",
+    "materiale" : "інше",
+    "country" : "Кітай",
+    "size" : "200 ml",
+    "color" : "Чорний",
+    "url" : "img/finansovoe-blagopoluchie.jpg"
+},
+{ 
+  "id" : "4",
+    "name" : "Баночка Вдохновіння",
+    "prise" : "768.00$",
+    "materiale" : "скло",
+    "country" : "Кітай",
+    "size" : "500 ml",
+    "color" : "Пісочний",
+    "url" : "img/banochka.jpg"
+},
+{ 
+  "id" : "5",
+    "name" : "GeForce GTX 1060 : Майнер",
+    "prise" : "750.00$",
+    "materiale" : "Пластік",
+    "country" : "Канада",
+    "size" : "200 ml",
+    "color" : "Сірий",
+    "url" : "img/carta-1.jpg"
+    
+},
+{ 
+  "id" : "6",
+    "name" : "Настільна гра Мемологія: Паляниця (Memology, Мемология) UKR",
+    "prise" : "70.00$",
+    "materiale" : "інше",
+    "country" : "Украина",
+    "size" : "500 ml",
+    "color" : "Білий",
+    "url" : "img/palanica-ua.jpg"
+},
+{ 
+  "id" : "7",
+    "name" : "Баланс Шари Ньютона",
+    "prise" : "500.00$",
+    "materiale" : "інше",
+    "country" : "Кітай",
+    "size" : "100 ml",
+    "color" : "Сірий",
+    "url" : "img/balans-shary-nyutona.jpg"
+},
+{"id" : "8",
+    "name" : "Набор для віскі: Король бубен",
+    "prise" : "100.00$",
+    "materiale" : "Плетений",
+    "country" : "Німечина",
+    "size" : "100 ml",
+    "color" : "Білий",
+    "url" : "img/big_product.jpg"
+},
+{ 
+  "id" : "9",
+    "name" : "Желейні цукерки Пофігін",
+    "prise" : "18.00$",
+    "materiale" : "скло",
+    "country" : "італія",
+    "size" : "50 ml",
+    "color" : "Зелений",
+    "url" : "img/zhelejnye-konfety-pofigin.jpg"
+},
+{ 
+  "id" : "10",
+    "name" : "Чашка NASA",
+    "prise" : "10.00$",
+    "materiale" : "кераміка",
+    "country" : "Кітай",
+    "size" : "50 ml",
+    "color" : "сірий",
+    "url" : "img/chashka-nasa.jpg"
+},
+{ 
+  "id" : "11",
+    "name" : "Плазмений шар Тесла",
+    "prise" : "300.00$",
+    "materiale" : "скло",
+    "country" : "Румунія",
+    "size" : "50 ml",
+    "color" : "Білий",
+    "url" : "img/shar-tesla.jpg"
+}
+
+]
+
+ 
